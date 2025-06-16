@@ -1,0 +1,3 @@
+[submodule "libs/repository-extern"]
+	path = libs/repository-extern
+	url = https://github.com/edorumag/meu-projecte.git
